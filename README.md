@@ -31,6 +31,7 @@ Abre tu terminal y ejecuta:
 
 ```bash
 git clone https://github.com/Rafel-Sosa/Concesionario_poo.git
+```
 
 ### 2️⃣ Descargando el ZIP:
 
@@ -44,5 +45,6 @@ Ejecuta:
 
 ```bash
 python main.py
+```
 
 4. También puedes abrir la carpeta y ejecutar el programa desde Visual Studio Code u otro editor de código de tú preferencia. 
