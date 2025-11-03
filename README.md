@@ -25,9 +25,24 @@ Este proyecto implementa un **mini sistema de concesionario** aplicando los **4 
 
 ## ⚙️ Cómo ejecutar el programa
 
-### 1️⃣ Clonar el repositorio
+### 1️⃣ Clonar el repositorio en GitHub
 
 Abre tu terminal y ejecuta:
 
 ```bash
 git clone https://github.com/Rafel-Sosa/Concesionario_poo.git
+
+### 2️⃣ Descargando el ZIP:
+
+1. En el repositorio, haz clic en el botón verde “Code” → “Download ZIP”
+
+2. Extrae el archivo ZIP.
+
+3. Abre una terminal dentro de la carpeta extraída.
+
+Ejecuta:
+
+```bash
+python main.py
+
+4. También puedes abrir la carpeta y ejecutar el programa desde Visual Studio Code u otro editor de código de tú preferencia. 
