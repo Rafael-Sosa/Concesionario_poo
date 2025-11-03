@@ -30,4 +30,4 @@ Este proyecto implementa un **mini sistema de concesionario** aplicando los **4 
 Abre tu terminal y ejecuta:
 
 ```bash
-git clone https://github.com/Rafel-Sosa/concesionario_poo.git
+git clone https://github.com/Rafel-Sosa/Concesionario_poo.git
